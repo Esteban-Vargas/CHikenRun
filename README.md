@@ -1,2 +1,2 @@
-# CHikenRun
+# ChikenRun
 Proyecto Construcció Software
