@@ -1,2 +1,2 @@
 # CHikenRun
-Proeycto Construcció Software
+Proyecto Construcció Software
